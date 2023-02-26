@@ -72,11 +72,11 @@ To install the dependencies:
  
  npm install
  
- #Start Server
+ Start Server
  
 To start the server:
 
-npm start
+**npm start***
 
 
 #Example
