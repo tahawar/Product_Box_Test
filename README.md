@@ -66,7 +66,8 @@ Tasks
  
  
  
- HOW TO RUN THIS 
+HOW TO RUN THIS 
+
 To install the dependencies:
  
  npm install
@@ -78,6 +79,7 @@ npm start
 
 
 Example
+run the command to get the result 
 http://localhost:3000/task1/I/want/title/?address=google.com
  
  
