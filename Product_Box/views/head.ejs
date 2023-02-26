@@ -1,0 +1,12 @@
+
+<% header = function(res){ %>
+    <% if(!res.finished){ %>
+<%       res.write("<html>"); %>
+<%        res.write("<head><title>Get Website Addresses From URL"); %>
+     <%  res.write("</title></head>"); %>
+    <% res.write("<body>"); %>
+ <%  } %>
+<%}, %>
+
+
+ <% module.exports = header %>
