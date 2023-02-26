@@ -79,6 +79,10 @@ Example
 run the command to get the result 
 http://localhost:3000/task1/I/want/title/?address=google.com
 
+![image](https://user-images.githubusercontent.com/64244757/221411521-125d6aa8-5b96-4012-ba57-f51b8d176ca8.png)
+
+
+
 
 
  
