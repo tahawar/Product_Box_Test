@@ -66,17 +66,13 @@ Tasks
  
  
  
-#HOW TO RUN THIS 
+HOW TO RUN THIS 
 
-To install the dependencies:
+To install the dependencies -> npm install
  
- npm install
+Start Server
  
- Start Server
- 
-To start the server:
-
-**npm start***
+To start the server -> npm start
 
 
 #Example
