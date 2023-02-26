@@ -75,7 +75,7 @@ Start Server
 To start the server -> npm start
 
 
-#Example
+Example
 run the command to get the result 
 http://localhost:3000/task1/I/want/title/?address=google.com
 
